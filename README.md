@@ -7,7 +7,7 @@ Experienced Frontend Developer with 3 years in IT, specializing in ReactJS for 2
 * ✉️  You can contact me at [suhashkkumar2@gmail.com](mailto:suhashkkumar2@gmail.com)
 * 🧠  I'm learning DSA, Advanced JS
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Love to explore, but lazy to move 😉
+* ⚡  Love to travel, lazy to move 😉
 
 <a href="https://www.github.com/SuhashKKumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SuhashKKumar?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
