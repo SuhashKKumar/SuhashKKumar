@@ -1,5 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suhash K Kumar
-======================================================================================================================================Frontend Developer - (ReactJs, NextJS)--------------------------------------Experienced Frontend Developer with 3 years in IT, specializing in ReactJS for 2.5 years. Currently diving into DSA and advanced JavaScript concepts for continual growth. Committed to crafting seamless and engaging user interfaces.* 🌍  I'm based in India* ✉️  You can contact me at [suhashkkumar2@gmail.com](mailto:suhashkkumar2@gmail.com)* 🧠  I'm learning DSA, Advanced JS* 🤝  I'm open to collaborating on Open Source Projects* ⚡  Love to explore, but lazy to move 😉
+Hi 👋 My name is Suhash K Kumar
+===============================
+Frontend Developer - (ReactJs, NextJS)
+--------------------------------------
+Experienced Frontend Developer with 3 years in IT, specializing in ReactJS for 2.5 years. Currently diving into DSA and advanced JavaScript concepts for continual growth. Committed to crafting seamless and engaging user interfaces.
+* 🌍  I'm based in India
+* ✉️  You can contact me at [suhashkkumar2@gmail.com](mailto:suhashkkumar2@gmail.com)
+* 🧠  I'm learning DSA, Advanced JS
+* 🤝  I'm open to collaborating on Open Source Projects
+* ⚡  Love to explore, but lazy to move 😉
 
 <a href="https://www.github.com/SuhashKKumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SuhashKKumar?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
